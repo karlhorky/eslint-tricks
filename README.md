@@ -44,7 +44,7 @@ Examples of **correct** code for this rule config:
 </List>
 ```
 
-![Screenshot 2024-04-25 at 11 21 38](https://github.com/karlhorky/eslint-tricks/assets/1935696/81db901d-9f44-4020-83c9-bcf00d5878f8)
+![Screenshot 2024-04-25 at 11 30 40](https://github.com/karlhorky/eslint-tricks/assets/1935696/aa2b20af-d4e3-4175-992a-bf58649350d2)
 
 - [`typescript-eslint` Playground](https://typescript-eslint.io/play/#ts=5.3.3&fileType=.tsx&code=GYVwdgxgLglg9mABAGRgZygCgJSIN4C%2BAUKJLAiulAJJQCmAtjvsUQDwB8RiibqGXHjzYATGADdEAekFC%2BVWo2my2U-lC7de62cPWKGyrXoX1DMrap3sLRO-YcOgA&eslintrc=N4KABGBEBOCuA2BTAzpAXGUEKQHYHsBaaFAF2gEsBjUxAE0OQE9dSBDAD3TAG1xscAdzbRckADT8BWAdkjJESGvmjdIAKQDKADQCiSALaJWPfAAdjFXAHN9iI6wB0uNkeevEAXgDkAGQrIpN4AumBaeobGpGgEpAAUpha4VraRTi5uGV5%2BAaQAkrQGIQCUElKykEbIyGzWiOjlslAAKgAWiGD%2BgWBU%2BAZm%2BLhRYAaw3b2sbFZgg-BMYAA8XfmFYAD0AHxgivZRyGBs%2B1StFPB0JGKNYAC%2B5cH8t9dAA&tsconfig=N4KABGBEDGD2C2AHAlgGwKYCcDyiAuysAdgM6QBcYoEEkJemy0eAcgK6qoDCAFutAGsylBm3TgwAXxCSgA&tokens=false)
 - [AST explorer](https://astexplorer.net/#/gist/d6366a9a786f34682ba023163d3834c8/bc2e151e077502f597ee51eabb718c6fc4ee493b)
